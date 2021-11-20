@@ -101,7 +101,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/Avnish327030/wafer_circleci.git
+git remote add origin https://<github_url>.git
 git push -u origin main
 ```
 
@@ -111,7 +111,7 @@ git push -u origin main
 
 ## setup your project 
 
-<a href="https://app.circleci.com/projects/github/Avnish327030/setup/"> Setup project </a>
+<a href="https://app.circleci.com/projects/github/reponame/setup/"> Setup project </a>
 
 ## Select project setting in CircleCI and below environment variable
 
